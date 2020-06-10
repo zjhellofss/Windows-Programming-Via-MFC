@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MemReset", "MemReset\MemRes
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShareSegment", "ShareSegment\ShareSegment.vcxproj", "{4E7C5E04-0B16-4AC0-A2C8-5BC559C34440}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FileRev", "FileRev\FileRev.vcxproj", "{016427AE-349A-426E-B3AF-711B572E6BB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -25,6 +27,10 @@ Global
 		{4E7C5E04-0B16-4AC0-A2C8-5BC559C34440}.Debug|Win32.Build.0 = Debug|Win32
 		{4E7C5E04-0B16-4AC0-A2C8-5BC559C34440}.Release|Win32.ActiveCfg = Release|Win32
 		{4E7C5E04-0B16-4AC0-A2C8-5BC559C34440}.Release|Win32.Build.0 = Release|Win32
+		{016427AE-349A-426E-B3AF-711B572E6BB7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{016427AE-349A-426E-B3AF-711B572E6BB7}.Debug|Win32.Build.0 = Debug|Win32
+		{016427AE-349A-426E-B3AF-711B572E6BB7}.Release|Win32.ActiveCfg = Release|Win32
+		{016427AE-349A-426E-B3AF-711B572E6BB7}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
