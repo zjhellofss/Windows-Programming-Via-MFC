@@ -9,6 +9,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShareSegment", "ShareSegmen
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "FileRev", "FileRev\FileRev.vcxproj", "{016427AE-349A-426E-B3AF-711B572E6BB7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MMFSparse", "MMFSparse\MMFSparse.vcxproj", "{37E2DFED-D482-4789-BDF0-A94688C76F4C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TimedMsgBox", "TimedMsgBox\TimedMsgBox.vcxproj", "{C1AE6379-58C6-4938-AB0A-F580CF2D955D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -31,6 +35,14 @@ Global
 		{016427AE-349A-426E-B3AF-711B572E6BB7}.Debug|Win32.Build.0 = Debug|Win32
 		{016427AE-349A-426E-B3AF-711B572E6BB7}.Release|Win32.ActiveCfg = Release|Win32
 		{016427AE-349A-426E-B3AF-711B572E6BB7}.Release|Win32.Build.0 = Release|Win32
+		{37E2DFED-D482-4789-BDF0-A94688C76F4C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{37E2DFED-D482-4789-BDF0-A94688C76F4C}.Debug|Win32.Build.0 = Debug|Win32
+		{37E2DFED-D482-4789-BDF0-A94688C76F4C}.Release|Win32.ActiveCfg = Release|Win32
+		{37E2DFED-D482-4789-BDF0-A94688C76F4C}.Release|Win32.Build.0 = Release|Win32
+		{C1AE6379-58C6-4938-AB0A-F580CF2D955D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C1AE6379-58C6-4938-AB0A-F580CF2D955D}.Debug|Win32.Build.0 = Debug|Win32
+		{C1AE6379-58C6-4938-AB0A-F580CF2D955D}.Release|Win32.ActiveCfg = Release|Win32
+		{C1AE6379-58C6-4938-AB0A-F580CF2D955D}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
